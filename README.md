@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashik-v
-- 👀 I’m interested in Junior Software Engineering roles
-- 🌱 I’m currently learning Rails
+- 💼 I'm currently working as a software developer
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me ashik.varghese@hotmail.com or https://www.linkedin.com/in/ashikv/
 
 <!---
