@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashik-v
-- 💼 I'm currently working as a software developer
-- 🌱 I’m currently learning Javascript and React
+- 💼 I'm currently working as a software developer at Nulogy
 - 📫 How to reach me ashik.varghese@hotmail.com or https://www.linkedin.com/in/ashikv/
 
 <!---
